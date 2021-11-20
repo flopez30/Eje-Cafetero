@@ -8,6 +8,12 @@
         "imageUrl": "https://www.whereismykiwi.com/wp-content/uploads/2020/04/portada-valle-del-cocora-xl.jpg"
     },
     {
+        "title": "Parque nacional los nevados",
+        "description": "Wickliffe",
+        "location": "El Parque Nacional Natural Los Nevados se encuentra ubicado en la Cordillera Central en la región Andina de los Andes colombianos.",
+        "temperature": "Oscila entre los 14°C y los 3°C",
+        "sites": "Los picos nevados Quindío, Santa Isabel, El Cisne, El Ruiz y Tolima, todos por encima de los 4.800 metros sobre el nivel del mar",
+        "imageUrl": "https://cdn.colombia.com/sdi/2014/01/04/parque-nacional-natural-los-nevados-autentica-emocion-natural-853808-1.webp"
 
     }
 ]
