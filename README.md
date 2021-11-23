@@ -10,7 +10,7 @@ Presentación de los integrantes del equipo de trabajo:
 Edwin Alberto Bermudez Ardila: soy de cali, tengo 30 años, soy tecnologo en sistemas y actualmente estoy terminando la ingenieria de sistemas. en este
 proyecto tengo el rol de Product Owner
 
-David Ricardo Rozo: Tengo 19 años, vivo en Bogotá. Actualmente estudiando Ingeniería Electrónica en la Pontificia Universidad Javeriana. Desarrollador
+David Ricardo Rozo: Tengo 19 años, vivo en Bogotá. Actualmente estudiando Ingeniería Electrónica en la Pontificia Universidad Javeriana.Soy desarrollador
 actualmente.
 
 Felipe López Ramírez: Tengo 33 años, vivo en Rionegro Antioquia, soy tecnologo agrícola y músico independiente.Tengo el rol de Scrum Master.
