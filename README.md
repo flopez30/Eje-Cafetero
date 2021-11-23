@@ -1,7 +1,11 @@
 # Programación Móvil Lugar: Eje-Cafetero
+
+Proyecto. Construir una aplicación móvil para dispositivos Android usando el lenguaje de programación Kotlin, que permita visualizar información de sitios
+turísticos del eje cafetero con iniialmente seis POI.
+
 Equipo GOLDEN JFDHER
 
-Presentación de los integrantes del eqyipo de trabajo:
+Presentación de los integrantes del equipo de trabajo:
 
 Edwin Alberto Bermudez Ardila: soy de cali, tengo 30 años, soy tecnologo en sistemas y actualmente estoy terminando la ingenieria de sistemas. en este
 proyecto tengo el rol de Product Owner
