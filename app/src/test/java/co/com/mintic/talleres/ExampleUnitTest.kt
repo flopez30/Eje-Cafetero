@@ -1,4 +1,4 @@
-package com.felopez.ejecafetero
+package co.com.mintic.talleres
 
 import org.junit.Test
 

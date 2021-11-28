@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Eje Cafetero</string>
+    <string name="app_name">listado de Sitios de Interes</string>
+    <string name="contact_thumb">Imagen POI</string>
 </resources>

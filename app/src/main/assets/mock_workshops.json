@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Valle del Cocora",
+    "desc": "La Reserva Natural Valle de Cocora donde la madre naturaleza permite al turista contemplar y sentir el fresco clima que le acaricia la piel",
+    "imageUrl": "https://www.whereismykiwi.com/wp-content/uploads/2020/04/portada-valle-del-cocora-xl.jpg",
+    "rating": "5"
+  },
+  {
+    "title": "Parque nacional los nevados",
+    "desc": "En esta reserva de 58.300 ha es posible practicar actividades como ciclomontañismo, senderismo, observación de flora y fauna",
+    "imageUrl": "https://cdn.colombia.com/sdi/2014/01/04/parque-nacional-natural-los-nevados-autentica-emocion-natural-853808-1.webp",
+    "rating": "3"
+  },
+  {
+    "title": "Parque Nacional de la Cultura Agropecuaria PANACA.",
+    "desc": "Somos el primer parque temático agropecuario en el mundo y el más grande en Latinoamérica, te ofrecemos una experiencia única llena de diversión e interacción con el campo,",
+    "imageUrl": "https://cdn.colombia.com/sdi/2013/12/10/parque-nacional-de-la-cultura-agropecuaria-panaca-755178.jpg",
+    "rating": "2"
+  }
+
+]
