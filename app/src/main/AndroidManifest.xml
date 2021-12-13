@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.com.mintic.talleres">
+    package="co.com.mintic.ejeCafetero">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".Points"
+            android:name="co.com.mintic.ejeCafetero.Points"
             android:exported="false" />
         <activity
-            android:name=".ListActivity"
+            android:name="co.com.mintic.ejeCafetero.ListActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

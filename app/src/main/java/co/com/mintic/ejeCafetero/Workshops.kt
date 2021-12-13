@@ -1,5 +1,4 @@
-package co.com.mintic.talleres
-import android.R
+package co.com.mintic.ejeCafetero
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/EDWIN/Desktop/Eje-Cafetero/app/src/main/res/layout/activity_list.xml" value="0.25729166666666664" />
         <entry key="..\:/EDWIN/Desktop/Eje-Cafetero/app/src/main/res/layout/activity_points.xml" value="0.14270833333333333" />
         <entry key="..\:/EDWIN/Desktop/Eje-Cafetero/app/src/main/res/layout/workshops_list_item.xml" value="0.25729166666666664" />
@@ -13,6 +14,12 @@
         <entry key="..\:/Users/EDWIN/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_list.xml" value="0.33" />
         <entry key="..\:/Users/EDWIN/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_points.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/EDWIN/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/workshops_list_item.xml" value="0.33" />
+=======
+        <entry key="..\:/Users/Fe/AndroidStudioProjects/EjeCafetero/app/src/main/res/layout/activity_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Fe/AndroidStudioProjects/EjeCafetero/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Fe/AndroidStudioProjects/EjeCafetero/app/src/main/res/layout/activity_points.xml" value="0.1" />
+        <entry key="..\:/Users/Fe/AndroidStudioProjects/EjeCafetero/app/src/main/res/layout/workshops_list_item.xml" value="0.22" />
+>>>>>>> 3b442a287d8efddf4fcc634f60d083cf850d744e
       </map>
     </option>
   </component>
